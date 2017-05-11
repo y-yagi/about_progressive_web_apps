@@ -1,6 +1,6 @@
-#### 事例
+#### Progressive Web Apps
 
-* もうすでにキャプチャ貼ってますが、[suumo](https://smp.suumo.jp/)
-* Googleの公式ページに事例として載っている
-  * [Suumo  \|  Web  \|  Google Developers](https://developers.google.com/web/showcase/2016/suumo)
-  * モバイルサイト起動時間が 75% 減少、プッシュ開封率が 31% 上昇 したらしい
+* Google社が最初にはじめた(言い始めた)
+* 現在は、Microsoft、Mozilla、Opera、等も協力的に動いている
+  * appleの対応は大変今ひとつ
+  * その為、現状iPhoneでは機能しない。androidだけ。
